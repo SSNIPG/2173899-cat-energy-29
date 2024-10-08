@@ -23,6 +23,15 @@
     "stylelint": "13.13.1",
     "stylelint-config-htmlacademy": "0.1.11"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SSNIPG/2173899-cat-energy-29.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SSNIPG/2173899-cat-energy-29/issues"
+  },
+  "homepage": "https://github.com/SSNIPG/2173899-cat-energy-29#readme",
   "scripts": {
     "editorconfig": "editorconfig-cli",
     "stylelint": "stylelint \"source/less/**/*.less\" --syntax less",
